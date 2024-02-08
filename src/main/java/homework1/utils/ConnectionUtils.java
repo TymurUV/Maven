@@ -1,4 +1,4 @@
-package homework1.domain.utils;
+package homework1.utils;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

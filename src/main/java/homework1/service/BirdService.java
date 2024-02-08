@@ -1,4 +1,4 @@
-package homework1.domain.service;
+package homework1.service;
 
 import homework1.domain.Bird;
 import homework1.repository.BirdRepository;

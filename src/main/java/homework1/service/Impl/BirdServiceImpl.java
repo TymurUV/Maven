@@ -1,7 +1,7 @@
-package homework1.domain.service.Impl;
+package homework1.service.Impl;
 
 import homework1.domain.Bird;
-import homework1.domain.service.BirdService;
+import homework1.service.BirdService;
 
 import java.util.List;
 
