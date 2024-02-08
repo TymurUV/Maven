@@ -2,7 +2,7 @@ package homework1.repository.impl;
 
 import homework1.domain.Bird;
 import homework1.repository.BirdRepository;
-import homework1.utils.ConnectionUtils;
+import homework1.domain.utils.ConnectionUtils;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

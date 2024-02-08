@@ -1,4 +1,4 @@
-package homework1.repositoryBase;
+package homework1.repository.repositoryBase;
 
 import java.util.List;
 
